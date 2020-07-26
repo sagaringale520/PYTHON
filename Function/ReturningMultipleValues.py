@@ -6,5 +6,5 @@ def cal(a,b):
     return a,b;
 
 m=cal(10,5)
-print(m) 
+print(m)
 
